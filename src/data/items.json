@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Scenery",
+    "price": 10.99,
+    "imgUrl": "/imgs/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Cat Fly",
+    "price": 11.99,
+    "imgUrl": "/imgs/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Cat Swim",
+    "price": 14.00,
+    "imgUrl": "/imgs/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Scenery Dog",
+    "price": 12,
+    "imgUrl": "/imgs/4.png"
+  },
+
+  {
+    "id": 5,
+    "name": "Scenery Cat 1",
+    "price": 12,
+    "imgUrl": "/imgs/5.png"
+  },
+
+  {
+    "id": 6,
+    "name": "Scenery Cat 2",
+    "price": 13,
+    "imgUrl": "/imgs/6.png"
+  }
+
+
+]
